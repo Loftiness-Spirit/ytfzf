@@ -16,7 +16,11 @@
 </p>
 
 <h1 align="center">
+<<<<<<< HEAD
 	This is a little you
+=======
+	This is a little rat
+>>>>>>> branch1
 </h1>
 <p align="center">
 <img src=.assets/ytfzf.gif width="100%">
