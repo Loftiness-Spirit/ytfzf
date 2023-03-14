@@ -16,7 +16,7 @@
 </p>
 
 <h1 align="center">
-	This is a little cat
+	This is a little rat
 </h1>
 <p align="center">
 <img src=.assets/ytfzf.gif width="100%">
