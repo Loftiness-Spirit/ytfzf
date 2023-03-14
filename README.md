@@ -16,7 +16,7 @@
 </p>
 
 <h1 align="center">
-	This is a little boy
+	This is a little man
 </h1>
 <p align="center">
 <img src=.assets/ytfzf.gif width="100%">
